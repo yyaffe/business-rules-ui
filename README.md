@@ -15,7 +15,7 @@ The goal of this library is to:
 
 ## Getting Started
 
-Try out the [demo here](http://venmo.github.io/business-rules-ui/examples/).
+Try out the [demo here](http://yyaffe.github.io/business-rules-ui/examples/).
 
 You can build rules based on the defined variables and operators (they're
 hard-coded in this demo, but they'd normally be sent dynamically from the
